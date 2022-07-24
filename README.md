@@ -7,3 +7,4 @@
 - added opal tools
 - added block of rainbow opal
 - added recipes for said tools and items
+- note: the items listed above are not obtainable without creative mode or commands
