@@ -10,4 +10,4 @@
 - note: the items listed above are not obtainable without creative mode or commands
 
 # Version 0.0.2
--minor bugfixes
+- minor bugfixes
