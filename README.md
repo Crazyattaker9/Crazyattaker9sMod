@@ -11,3 +11,4 @@
 
 # Version 0.0.2
 - minor bugfixes
+- opals are now obtainable in survival mode through mineshaft chests
